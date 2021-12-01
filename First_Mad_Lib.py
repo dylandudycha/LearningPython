@@ -1,0 +1,12 @@
+verb = input("Please enter a verb: ")
+food = input("Please give a food: ")
+celebrity = input("Please enter a celebrity: ")
+body_part = input("Please enter a body part: ")
+state = input("Please enter a US state: ")
+month = input("Please enter a month of the year: ")
+
+print("I was " + verb + "ing down the road,")
+print("When I suddenly got a craving for " + food)
+print("Out of nowhere, " + celebrity + " punched me in the " + body_part)
+print("It was all over the news in " + state)
+print("Maybe I can get some more " + food + " in " + month)
